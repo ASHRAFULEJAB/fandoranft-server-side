@@ -1,0 +1,50 @@
+[
+  {
+    
+    "categoryId": "1",
+    "img": "https://ik.imagekit.io/bayc/assets/bayc-footer.png",
+    "name": "Bored Ape Yacht Club",
+    "des": "The Bored Ape Yacht Club is a collection of 10000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain.",
+    "price": 30.99
+  },
+  {
+    
+    "categoryId": "1",
+    "img": "https://zipmex.com/static/dce64668a623f89f3c4e1cbc99431927/c63eb/Azuki-NFTs.png",
+    "name": "Azuki",
+    "des": "Azuki starts with a collection of 10,000 avatars that give you membership access to The Garden: a corner of the internet where artists, builders, and web3",
+    "price": 32.99
+  },
+  {
+    
+    "categoryId": "1",
+    "img": "https://www.altcoinbuzz.io/wp-content/uploads/2022/09/should-know-mutant-ape-yacht-club.jpg",
+    "name": "Mutant Ape Yacht Club",
+    "des": "The MUTANT APE YACHT CLUB is a collection of up to 20000 Mutant Apes that can only be created by exposing an existing Bored Ape to a vial of MUTANT SERUM",
+    "price": 59.99
+  },
+  {
+    
+    "categoryId": "1",
+    "img": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1674158453102_14rdh3gnws2kbxu0eqw33k5fg0uu9ti0.png",
+    "name": "Opepen Edition",
+    "des": "Opepen Edition (OPEPEN) is a non-fungible token (NFT) collection by popular digital artist Jack Butcher. The project is consisted of a total of 15983 unique. ",
+    "price": 68.99
+  },
+  {
+    
+    "categoryId": "1",
+    "img": "https://www.todaynftnews.com/wp-content/uploads/2022/07/CryptoPunks.jpg",
+    "name": "CryptoPunks",
+    "des": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in ..Wrapped Cryptopunks · 1146936 ETH total volume · CryptoPunk #9998",
+    "price": 57.99
+  },
+  {
+    
+    "categoryId": "1",
+    "img": "https://beanstalk-9fcd.kxcdn.com/wp-content/uploads/2022/05/moonbirds-nft.jpg",
+    "name": "Moonbirds",
+    "des": "Moonbirds (MOONBIRD) is an NFT collection. Moonbirds (MOONBIRD) price floor today is $3,865.53, with a 24 hour sales volume of 259.27 ETH.",
+    "price": 71.99
+  }
+]

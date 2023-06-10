@@ -1,0 +1,6 @@
+/node_modules
+
+/testing.json
+/testing2.json
+.vercel
+.env
