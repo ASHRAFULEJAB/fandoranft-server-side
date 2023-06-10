@@ -34,7 +34,7 @@ async function run() {
       const services = await cursor.limit(3).toArray();
       res.send(services);
     });
-    // Product menu page
+    // Product menu page for fandora
     app.get("/products", async (req, res) => {
       const query = {};
       const price = req.query.price;
